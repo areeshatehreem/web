@@ -1,0 +1,35 @@
+#heading1{
+    text-align: center;
+    color: whitesmoke;
+}
+.container{
+    background-color: maroon;
+    padding: 5%;
+}
+.service-container{
+
+}
+.service-box{
+   
+    flex-basis: 32%;
+    padding: 10px;
+}
+
+.service-box{
+    width: 100%;
+}
+#capture{
+    display: flex;
+    justify-content: space-evenly;
+}
+#capture2{
+    display: flex;
+    justify-content: space-evenly;
+}
+#capture3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.service-title{
+    text-align: center;
+}
